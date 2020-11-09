@@ -9,6 +9,12 @@
 ##### *Studied about Web app pentesting*
 
 ### Day 3: 8th November
-###### *Continued with overpass2 #tryhackme and completed Task 2*
+##### *Continued with overpass2 #tryhackme and completed Task 2*
+
+### Day 4: 9th November
+##### *Started Brute it @tryhackme and performed enumeration and scanning using nmap*
+
+
+
 
 
