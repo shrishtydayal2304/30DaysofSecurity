@@ -14,6 +14,11 @@
 ### Day 4: 9th November
 ##### *Started Brute it @tryhackme and performed enumeration and scanning using nmap*
 
+### Day 5: 10th November
+##### *Performed privilege escaltion in brute it @tryhackme*
+##### *Written a code to implement 2D transformation in openGL in computer graphics* 
+
+
 
 
 
