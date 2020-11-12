@@ -22,6 +22,10 @@
 ### Day 6: 11th November
 ##### *Completed overpass2 @tryhackme*
 ##### *Written a code to implement 3D transformation in openGL in computer graphics* 
+### Day 7: 21th November
+##### *Performed forensics on data.vmem using volatility*
+##### *Explored about bug bounty,network pen testing* 
+
 
 
 
