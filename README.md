@@ -22,9 +22,15 @@
 ### Day 6: 11th November
 ##### *Completed overpass2 @tryhackme*
 ##### *Written a code to implement 3D transformation in openGL in computer graphics* 
-### Day 7: 21th November
+
+### Day 7: 12th November
 ##### *Performed forensics on data.vmem using volatility*
 ##### *Explored about bug bounty,network pen testing* 
+
+### Day 8: 13th November
+##### *completed the Secure from hell @tryhakme*
+##### *Studied about honeypot and IDS* 
+##### *Started as intern at Hacking Article*
 
 
 
