@@ -29,11 +29,9 @@
 
 ### Day 8: 13th November
 ##### *completed the Secure from hell @tryhakme*
-##### *Studied about honeypot and IDS* 
+##### *Studied about honeypot* 
 ##### *Started as intern at Hacking Article*
 
-
-
-
-
-
+### Day 9: 14th November
+##### *started with history of malware @tryhakme*
+##### *Studied about IDS* 
