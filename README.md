@@ -28,12 +28,12 @@
 ##### *Explored about bug bounty,network pen testing* 
 
 ### Day 8: 13th November
-##### *completed the Secure from hell @tryhakme*
+##### *completed the Secure from hell @tryhackme*
 ##### *Studied about honeypot* 
 ##### *Started as intern at Hacking Article*
 
 ### Day 9: 14th November
-##### *started with history of malware @tryhakme*
+##### *started with history of malware @tryhackme*
 ##### *Studied about IDS*
 
 ### Day 10: 15th November
