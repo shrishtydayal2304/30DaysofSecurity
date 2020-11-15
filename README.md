@@ -34,4 +34,9 @@
 
 ### Day 9: 14th November
 ##### *started with history of malware @tryhakme*
-##### *Studied about IDS* 
+##### *Studied about IDS*
+
+### Day 10: 15th November
+##### *Completed the room Brute it @tryhackme*
+##### *First article on ctf room secure from the hell got published by hacking articles(Ignite Technologies)* https://www.hackingarticles.in/the-server-from-hell-tryhackme-walkthrough/
+
