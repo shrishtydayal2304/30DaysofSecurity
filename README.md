@@ -40,3 +40,8 @@
 ##### *Completed the room Brute it @tryhackme*
 ##### *First article on ctf room secure from the hell got published by hacking articles(Ignite Technologies)* https://www.hackingarticles.in/the-server-from-hell-tryhackme-walkthrough/
 
+
+### Day 11: 16th November
+##### *Completed the room History of malware @tryhackme and started the room revenge of tryhackme*
+##### *Studied about honey pot and the working of send-safe honey pot hunter*
+
