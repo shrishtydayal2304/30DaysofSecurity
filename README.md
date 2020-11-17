@@ -45,3 +45,7 @@
 ##### *Completed the room History of malware @tryhackme and started the room revenge of tryhackme*
 ##### *Studied about honey pot and the working of send-safe honey pot hunter*
 
+
+### Day 12: 17th November
+##### *Studied about mobile security assessment ,voip assessment and web app assessment*
+
