@@ -49,3 +49,8 @@
 ### Day 12: 17th November
 ##### *Studied about mobile security assessment ,voip assessment and web app assessment*
 
+
+### Day 13: 18th November
+##### *Studied about command injection using commix tool*
+##### *Learned Nmap Firewall Scan and bypass security using iptable rules*
+
