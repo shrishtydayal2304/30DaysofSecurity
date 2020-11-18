@@ -54,3 +54,7 @@
 ##### *Studied about command injection using commix tool*
 ##### *Learned Nmap Firewall Scan and bypass security using iptable rules*
 
+### Day 14: 18th November
+##### *Studied about command injection using commix tool*
+##### *Learned Nmap Firewall Scan and bypass security using iptable rules*
+
