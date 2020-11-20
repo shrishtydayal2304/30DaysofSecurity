@@ -62,3 +62,6 @@
 ##### *Completed the room Revenge @tryhackme*
 ##### *Learned Nmap Firewall Scan and different types of scans and their flags*
 
+### Day 16: 20th November
+##### *Learned about XXE injection*
+
