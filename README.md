@@ -73,3 +73,6 @@
 ### Day 18: 22nd November
 ##### *Started room Splunk @tryhackme*
 ##### *Completed OOAD assignment*
+
+### Day 18: 23nd November
+##### *Studied about nmap packet trace*
