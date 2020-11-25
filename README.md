@@ -74,5 +74,12 @@
 ##### *Started room Splunk @tryhackme*
 ##### *Completed OOAD assignment*
 
-### Day 18: 23nd November
+### Day 19: 23nd November
 ##### *Studied about nmap packet trace*
+
+
+### Day 20: 24th November
+##### *Explored about ftk imager and used the ftk imager*
+
+### Day 21: 25th November
+##### *Started Try hackme room mitre*
