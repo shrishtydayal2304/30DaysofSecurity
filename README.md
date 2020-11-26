@@ -83,3 +83,6 @@
 
 ### Day 21: 25th November
 ##### *Started Try hackme room mitre*
+
+### Day 22: 26th November
+##### *Writeup submitted at tryhackme room got accepted*
