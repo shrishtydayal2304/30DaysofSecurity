@@ -86,3 +86,4 @@
 
 ### Day 22: 26th November
 ##### *Writeup submitted at tryhackme room got accepted*
+#### *Studies about upload file vulnerbility*
