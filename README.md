@@ -87,3 +87,7 @@
 ### Day 22: 26th November
 ##### *Writeup submitted at tryhackme room got accepted*
 #### *Studies about upload file vulnerbility*
+
+### Day 23: 27th November
+##### *Tried the codcaper room @tryhackme*
+##### *Completed the bakcup of  articles for intern work*
