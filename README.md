@@ -91,3 +91,8 @@
 ### Day 23: 27th November
 ##### *Tried the codcaper room @tryhackme*
 ##### *Completed the bakcup of  articles for intern work*
+
+### Day 24: 28th November
+##### *Studied about honeypot*
+##### *Completed the bakcup of  articles for intern work*
+
