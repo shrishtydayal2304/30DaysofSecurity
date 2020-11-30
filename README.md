@@ -100,3 +100,5 @@
 ##### *Performed honepot on my android using hostage*
 
 
+### Day 26: 30th November
+##### *Studied about memory forensics using ftk an volaitlity*
