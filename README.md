@@ -99,6 +99,8 @@
 ### Day 25: 29th November
 ##### *Performed honepot on my android using hostage*
 
-
 ### Day 26: 30th November
 ##### *Studied about memory forensics using ftk an volaitlity*
+
+### Day 27: 1st December 
+##### *Studied about steghide tool and its utility and fcrackzip tool and its different mode and how to use it*
