@@ -104,3 +104,6 @@
 
 ### Day 27: 1st December 
 ##### *Studied about steghide tool and its utility and fcrackzip tool and its different mode and how to use it*
+
+### Day 28: 2nd December 
+##### *Studied about snort and its utility and used rhegshot windows registry tool*
