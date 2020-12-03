@@ -107,3 +107,6 @@
 
 ### Day 28: 2nd December 
 ##### *Studied about snort and its utility and used rhegshot windows registry tool*
+
+### Day 29: 3rd December 
+##### *Studied for the minor presentation*
