@@ -110,3 +110,8 @@
 
 ### Day 29: 3rd December 
 ##### *Studied for the minor presentation*
+
+### Day 30: 4th December 
+##### *Completed with the minor presentation*
+##### *Studied about linux privilege escalation*
+
